@@ -1,2 +1,4 @@
 # Digital-Humanities-101
-cat and dog
+
+![Image of DigHum]
+(https://github.com/JackXie24/Digital-Humanities-101/tree/master/image)
