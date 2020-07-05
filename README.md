@@ -1,4 +1,3 @@
 # Digital-Humanities-101
 
-![Image of DigHum]
-(https://github.com/JackXie24/Digital-Humanities-101/tree/master/image/digital-1.jpg)
+![Image of DigHum](image/digital-1.jpg)
