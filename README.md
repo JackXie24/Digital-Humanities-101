@@ -1,6 +1,8 @@
 # Digital-Humanities-101
 
 ![Image of DigHum](image/digital-1.jpg)
+
+
 This repository contains my group and individual projects for the Digital Humanities 101 - Practicing the Digital Humanities.
 
 ### Individual Project Abstract:
